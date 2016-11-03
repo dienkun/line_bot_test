@@ -131,7 +131,7 @@ if ($text == 'はい') {
 } else if ($text == 'デートする') {
   $response_format_text = [
     "type" => "text",
-    "text" => "デートしてくれ、ありがとうございました！！\nランチのデートをジエンクンのカレンダーに入れてくださいね (*ﾟ▽ﾟ*)"
+    "text" => "デートしてくれ、ありがとうございました！！ (*ﾟ▽ﾟ*)"
   ];
 } else if ($text == 'ハンサムなジエンクン') {
   $response_format_text = [
